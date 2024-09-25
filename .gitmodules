@@ -1,0 +1,8 @@
+[submodule "hyperswitch-client-core"]
+	path = hyperswitch-client-core
+	url = git@github.com:juspay/hyperswitch-client-core.git
+	branch = main
+[submodule "hyperswitch-web"]
+	path = hyperswitch-web
+	url = git@github.com:juspay/hyperswitch-web.git
+	branch = main
