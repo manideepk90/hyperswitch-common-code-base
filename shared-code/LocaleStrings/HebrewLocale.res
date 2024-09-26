@@ -158,4 +158,6 @@ let localeStrings: LocaleStringTypes.localeStrings = {
   addPaymentMethodLabel: `הוסף שיטת תשלום חדשה`,
   cardHolderNameRequiredText: `נדרש שם בעל הכרטיס`,
   walletDisclaimer: `פרטי הארנק יישמרו עם הבחירה`,
+    deletePaymentMethod: "",
+
 }

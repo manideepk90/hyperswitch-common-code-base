@@ -168,4 +168,4 @@ let localeStrings: LocaleStringTypes.localeStrings = {
   addPaymentMethodLabel: ` Добавить новый способ оплаты`,
   cardHolderNameRequiredText: `Требуется имя держателя карты`,
   walletDisclaimer: `Данные кошелька будут сохранены после выбора`,
-}
+ deletePaymentMethod : ""}

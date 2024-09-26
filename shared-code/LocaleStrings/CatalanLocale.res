@@ -149,4 +149,9 @@ let localeStrings: LocaleStringTypes.localeStrings = {
   pixKeyEmptyText: `La clau Pix no pot estar buida`,
   pixKeyPlaceholder: `Introdueix la clau Pix`,
   pixKeyLabel: `Clau Pix`,
+  cardDetailsLabel: "", firstName: "",
+  lastName : "",billingDetails: "", requiredText: "", cardHolderNameRequiredText: "",
+  lastNameRequiredText: "", cardExpiresText: "", addPaymentMethodLabel: "",
+  walletDisclaimer: "",
+  deletePaymentMethod : "",
 }
