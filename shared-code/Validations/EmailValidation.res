@@ -1,4 +1,3 @@
-//CC -> ValidationFunctions (isValidEmail)
 let isEmailValid = email => {
   switch email->String.match(
     %re(
