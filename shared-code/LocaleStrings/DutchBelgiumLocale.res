@@ -156,5 +156,5 @@ let localeStrings: LocaleStringTypes.localeStrings = {
   pixCPFPlaceholder: `Voer Pix CPF in`,
   pixKeyEmptyText: `Pix-sleutel mag niet leeg zijn`,
   pixKeyPlaceholder: `Voer Pix-sleutel in`,
-  pixKeyLabel: `Pix-sleutel`,
+  pixKeyLabel: `Pix-sleutel`, deletePaymentMethod : ""
 }

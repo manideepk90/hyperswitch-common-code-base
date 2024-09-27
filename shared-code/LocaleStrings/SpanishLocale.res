@@ -158,4 +158,4 @@ let localeStrings: LocaleStringTypes.localeStrings = {
   addPaymentMethodLabel: `Afegir un nou mètode de pagament`,
   cardHolderNameRequiredText: `Cal el nom del titular de la targeta`,
   walletDisclaimer: `Els detalls de la cartera es desaran en seleccionar-lo`,
-}
+ deletePaymentMethod : ""}

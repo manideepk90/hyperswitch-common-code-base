@@ -158,4 +158,5 @@ let localeStrings: LocaleStringTypes.localeStrings = {
   addPaymentMethodLabel: `新しい支払い方法を追加`,
   cardHolderNameRequiredText: `カード所有者の名前が必要です`,
   walletDisclaimer: `ウォレットの詳細は選択時に保存されます`,
+  deletePaymentMethod : ""
 }

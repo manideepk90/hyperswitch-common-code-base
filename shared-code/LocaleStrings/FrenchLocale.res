@@ -158,5 +158,7 @@ let localeStrings: LocaleStringTypes.localeStrings = {
   cardExpiresText: `expire`,
   addPaymentMethodLabel: `Ajouter un nouveau mode de paiement`,
   cardHolderNameRequiredText: `Nom du titulaire de la carte requis`,
-  walletDisclaimer: `Les détails du portefeuille seront enregistrés lors de la sélection`
+  walletDisclaimer: `Les détails du portefeuille seront enregistrés lors de la sélection`,
+    deletePaymentMethod: "",
+
 }

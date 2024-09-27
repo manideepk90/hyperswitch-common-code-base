@@ -157,4 +157,5 @@ let localeStrings: LocaleStringTypes.localeStrings = {
   cardHolderNameRequiredText: `Card Holder's name required`,
   walletDisclaimer: `Wallet details will be saved upon selection`,
   cardDetailsLabel: "Card Details",
+  deletePaymentMethod: "",
 }

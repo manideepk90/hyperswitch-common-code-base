@@ -127,7 +127,8 @@ let localeStrings: LocaleStringTypes.localeStrings = {
   formFieldInvalidRoutingNumber: "",
   infoCardRefId: "",
   infoCardErrCode: "",
-  infoCardErrMsg: "",
+  infoCardErrMsg: "", 
+  deletePaymentMethod : "",
   infoCardErrReason: "",
   linkRedirectionText: _ => "",
   linkExpiryInfo: _ => "",
@@ -146,4 +147,6 @@ let localeStrings: LocaleStringTypes.localeStrings = {
   pixCPFEmptyText: "",
   pixCPFLabel: "",
   pixCPFPlaceholder: "",
-  pixKeyEmptyText: "",}
+  pixKeyEmptyText: "",
+  pixKeyLabel:"", pixKeyPlaceholder:"",
+  }

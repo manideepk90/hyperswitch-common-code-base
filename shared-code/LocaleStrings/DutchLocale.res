@@ -157,4 +157,5 @@ let localeStrings: LocaleStringTypes.localeStrings = {
   addPaymentMethodLabel: `Nieuwe betaalmethode toevoegen`,
   cardHolderNameRequiredText: `Naam van de kaarthouder vereist`,
   walletDisclaimer: `Portemonneegegevens worden opgeslagen bij selectie`,
+  deletePaymentMethod : "",
 }

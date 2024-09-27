@@ -146,5 +146,5 @@ let localeStrings: LocaleStringTypes.localeStrings = {
   pixCPFEmptyText: "",
   pixCPFLabel: "",
   pixCPFPlaceholder: "",
-  pixKeyEmptyText: "",
+  pixKeyEmptyText: "",pixKeyLabel:"", pixKeyPlaceholder:"",deletePaymentMethod : ""
 }
