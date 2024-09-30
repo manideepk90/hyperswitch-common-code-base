@@ -1,0 +1,13 @@
+{
+  "name": "hyperswitch-common-code-base",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:manideepk90/hyperswitch-common-code-base.git",
+  "author": "Kuntimaddi Manideep <manideepk90@gmail.com>",
+  "license": "MIT",
+  "private" : true,
+  "workspaces": [
+    "hyperswitch-web",
+    "hyperswitch-client-core"
+  ]
+}
